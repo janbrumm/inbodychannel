@@ -1,5 +1,6 @@
 # An Ultra Wideband In-Body Channel model 
-
+This Markdown file is optimized for GitLab. For correct rendering see the original repository at 
+https://collaborating.tuhh.de/int/in-body/inbodychannel. 
 ## Introduction
 This repository provides a stochastic ultra wideband in-body channel model for a capsule endoscopy applications. 
 The stochastic channel model allows to randomly draw transfer functions between a transmitter placed in the digestive 

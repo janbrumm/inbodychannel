@@ -1,0 +1,1 @@
+from inbodychannel.stochastic_model import StochasticChannelModel
